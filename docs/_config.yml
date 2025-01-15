@@ -23,9 +23,12 @@ email: what@flowerses.gay
 description: >- # this means to ignore newlines until "baseurl:"
     A webbed site supporting trans wrongs of all kinds
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: 
+url: "https://flowerses.gay" # the base hostname & protocol for your site, e.g. http://example.com
+bsky_username: flowerses
 github_username: flowerseses
+header_pages:
+  - blog.md
+  - about.md
 
 # Build settings
 theme: minima
